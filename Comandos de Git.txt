@@ -1,0 +1,22 @@
+Comandos: 
+
+Git init. Lo usamos cuando queremos comenzar el proyecto. 
+
+Git add. Lo usamos para añadir los archivos al área de ensayo, para que Git le de seguimiento. Con el comando seguido de punto  “.” se da seguimiento a todos los archivos.
+
+Git commit. Traslada los archivos del área de ensayo al repositorio local. 
+
+git commit-am. Realizó un git add y git commit a la vez.
+	
+Git log —oneline.  Me da una lista de todos los commits realizados
+
+Git reset —hard. Restaurar a una versión anterior. Al usarlo borrar todas las versiones anteriores hasta la version que se desea restaurar. Para hacerlo, se ingresa el comando seguido del código del commit.
+
+Subir a GitHub. git remote add origin https: //github.com/CesarBaez28/CursoGit.git
+
+git branch -M main
+
+git push -u origin main. Actualizar a GitHub.
+
+
+
