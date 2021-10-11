@@ -18,5 +18,12 @@ git branch -M main
 
 git push -u origin main. Actualizar a GitHub.
 
+Git pull. Actualizar repositorio local al hacer cambios en github
 
+Tags. Permiten especificar versiones de nuestro proyecto. Por ejemplo: 
 
+    git tag 11-10-2021v1 -m "Versión 1 del proyecto"
+
+git push --tags. Subir tags a GitHub.
+
+Git clone. Clonar el repositorio. Se especifica el comando seguido de la url del proyecto.
