@@ -27,3 +27,10 @@ Tags. Permiten especificar versiones de nuestro proyecto. Por ejemplo:
 git push --tags. Subir tags a GitHub.
 
 Git clone. Clonar el repositorio. Se especifica el comando seguido de la url del proyecto.
+
+Git branch. Crear rama. Se usa el comando seguido del nombre de la rama. Si solo utilizo el comando me muestra las ramas y en la que estoy actualmente.
+
+Git checkout. Comando para moverse de una rama a otra. Se usa el comando seguido del nombre de la rama.
+
+
+
