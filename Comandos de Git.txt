@@ -32,5 +32,7 @@ Git branch. Crear rama. Se usa el comando seguido del nombre de la rama. Si solo
 
 Git checkout. Comando para moverse de una rama a otra. Se usa el comando seguido del nombre de la rama.
 
+Git branch -d. Borrar una rama. Se usa el comando seguido del nombre de la rama.
+
 Git merge. Se utiliza para fusionar ramas. Se debe usar en la rama master. Se usa el comando seguido del nombre de la rama. 
 
